@@ -1,6 +1,7 @@
 # Financial-Risk-Detection
 
 **Project Overview:**
+
 Financial Risk Detection: This project aims to develop a predictive model to identify individuals at high risk of default on financial obligations. The model is based on a comprehensive analysis of financial, demographic, and behavioral data.
 
 **Workflow:**
